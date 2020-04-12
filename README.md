@@ -1,6 +1,6 @@
 #Barbi
 
-###A Telegram Bot by Sameer The Villian###
+###A Telegram Bot by Vincent###
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahranali/-Barbi-)
 
