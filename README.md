@@ -2,7 +2,7 @@
 
 ###A Telegram Bot by Vincent###
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahranali/-Barbi-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/kumarvincent/AdvancedSecurity)
 
 
  modular Telegram Python bot running on python3 with an sqlalchemy database.
